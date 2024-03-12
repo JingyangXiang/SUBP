@@ -137,3 +137,14 @@ Special thanks to the authors and contributors of the following projects:
 
 - [filter-pruning-geometric-median](https://github.com/he-y/filter-pruning-geometric-median)
 - [soft-filter-pruning](https://github.com/he-y/soft-filter-pruning)
+
+## Citation
+```
+@article{xiang2024subp,
+  title={SUBP: Soft Uniform Block Pruning for 1$times$N Sparse CNNs Multithreading Acceleration},
+  author={Xiang, Jingyang and Li, Siqi and Chen, Jun and Dai, Guang and Bai, Shipeng and Ma, Yukai and Liu, Yong},
+  journal={Advances in Neural Information Processing Systems},
+  volume={36},
+  year={2024}
+}
+```
